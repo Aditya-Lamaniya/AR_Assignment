@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: RemoteGroup
+  m_EditorClassIdentifier: 
+  m_GroupName: RemoteGroup
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 943cbf6e35234420c87c387aeef068bd
+  m_SerializeEntries:
+  - m_GUID: b6e864aad592d45209ceb7376055666c
+    m_Address: Assets/Scenes/Sphere.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Remote_Prefab
+    m_MainAsset: {fileID: 5581128104580531620, guid: b6e864aad592d45209ceb7376055666c,
+      type: 3}
+    m_TargetAsset: {fileID: 5581128104580531620, guid: b6e864aad592d45209ceb7376055666c,
+      type: 3}
+  - m_GUID: 6b5ae49c49711423bb63af7ca5dc17b3
+    m_Address: Assets/Scenes/Cylinder.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Remote_Prefab
+    m_MainAsset: {fileID: 3153463719777227120, guid: 6b5ae49c49711423bb63af7ca5dc17b3,
+      type: 3}
+    m_TargetAsset: {fileID: 3153463719777227120, guid: 6b5ae49c49711423bb63af7ca5dc17b3,
+      type: 3}
+  - m_GUID: 501fc533adf5a43178bd45b479481704
+    m_Address: Assets/Scenes/Cube.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Remote_Prefab
+    m_MainAsset: {fileID: 2679624987625033410, guid: 501fc533adf5a43178bd45b479481704,
+      type: 3}
+    m_TargetAsset: {fileID: 2679624987625033410, guid: 501fc533adf5a43178bd45b479481704,
+      type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 8f04f061fcc454306a1e5e234b747065, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5d34bf467ed9c4c19a0b0008899bca81, type: 2}
+    - {fileID: 11400000, guid: 16b8b007f34d044278087f213ffdf111, type: 2}
